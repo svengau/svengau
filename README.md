@@ -2,8 +2,6 @@
 
  dad<sup>3</sup>, I love ⛷️ 🏂 🏊
 
-Remote from Ottawa 🇨🇦
+Senior Fullstack developper. Remote from France 🇫🇷
 
-Fullstack developper for @UnstoppableDomain
-
-Previously in Hội An🇻🇳 for @bicomplete, @cme-pro
+Previously in Hội An 🇻🇳 for @bicomplete, @cme-pro, Ottawa 🇨🇦 for @unstoppabledomains
