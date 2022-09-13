@@ -10,10 +10,12 @@ Previously in:
 
 ## My favorite stack
 
-- Database: MongoDB or PostgreSQL
-- ORM: Mongoose or Prisma
+- Database: MongoDB / PostgreSQL
+- ORM: Mongoose / Prisma
 - Backend: Typescript, with GraphQL and [GraphQL Modules](https://www.graphql-modules.com/)
 - Frontend: NextJS, TailwindCSS and Apollo Client
+- Testing: Jest, Playwright (or Cypress).
+- CI: Github Actions
 - Hosting: GCP, Netlify or Vercel
 
 ## My typical work day
