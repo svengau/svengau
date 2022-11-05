@@ -26,7 +26,6 @@ From time to time, viewing a tech presentation from one of my teammates, and soc
 
 A few companies that I like
 
-- The [Gates Foundation](https://www.gatesfoundation.org/) for trying to achieve a better world,
 - [Buffer](https://buffer.com) for their full transparency,
 - [unstoppabledomains](https://unstoppabledomains.com) for trying to define a decentralized Web Identity,
 - [beta.gouv](https://beta.gouv.fr) for all their public interest projects,
