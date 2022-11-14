@@ -20,11 +20,11 @@ Previously in:
 
 ## My typical work day
 
-In the morning, a good cup of coffe, checking new messages on emails / slack, fixing urgent bugs if any, reviewing PRs to help my teammates. And daily standup of course.
+In the morning, a good cup of coffee, checking new messages on emails / slack, fixing urgent bugs if any, reviewing PRs to help my teammates. And daily standup of course.
 In the afternoon, working on new features.
 From time to time, viewing a tech presentation from one of my teammates, and socializing with them on Zoom :)
 
-A few companies that I like
+A few companies that I like:
 
 - [Buffer](https://buffer.com) for their full transparency,
 - [unstoppabledomains](https://unstoppabledomains.com) for trying to define a decentralized Web Identity,
